@@ -13,10 +13,12 @@ git clone this repository or download zip
 1. 'serve' in the project's root directory
 
 ## Contributing
-
 [Laurel Morrison](https://github.com/LaurelMorrison)
+
 [Salma Crank](https://github.com/srcrank)
+
 [Sidney Crandall](https://github.com/SidneyCrandall)
+
 [Micaela Colpi](https://github.com/micaelacolpi)
 
 ## License
