@@ -1,7 +1,7 @@
 
 # Automated World Group Project
 
-For my second group project while attending Nashvville Software School, we created another 'travel brochure' themed app, this time incorporating Javascript in place of any hard-coded HTML data.
+For my second group project while attending Nashville Software School, we created another 'travel brochure' themed app, this time incorporating Javascript in place of any hard-coded HTML data.
 I was tasked with writing the Javascript for the French Polynesia page, as well as collaborating with teammates to create CSS files.
 
 ## Installation
